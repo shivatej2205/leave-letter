@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.date {
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+.to-principal {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.subject {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.letter-body {
+  text-align: justify;
+  margin-bottom: 30px;
+}
+
+.signature {
+  text-align: right;
+}
+
